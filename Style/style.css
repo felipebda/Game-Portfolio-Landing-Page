@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Permanent+Marker&family=Silkscreen:wght@700&display=swap');
+
+.header, .footer{
+    background-color: #040D12;
+}
+
+.header-text, .footer-text{
+    color:#5C8374;
+    font-family:"Alfa Slab One";
+    
+}
+
+.header-text:hover{
+    color:#93B1A6;
+    
+}
+
+.hello-text{
+    font-family:"Silkscreen";
+    font-size: 60px;
+}
+
+
+.about-me, .portfolio{
+    background-color: #93B1A6;
+}
+
+.about-me-text, .skill-text, .portfolio-text, .contact-text{
+    font-family:"Bebas Neue";
+    font-size:80px;
+}
+
+
+
